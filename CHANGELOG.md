@@ -1,3 +1,7 @@
+# 0.9.0 (July 18, 2020)
+
+- Update to pass html5 validator
+
 # 0.8.0 (March 19, 2018)
 
 - Add test for HTML comments (thanks @ep00ch!).

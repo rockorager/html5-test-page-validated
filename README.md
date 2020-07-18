@@ -1,10 +1,8 @@
-# HTML5 Test Page
-
-[![npm version](https://badge.fury.io/js/html5-test-page.svg)](https://badge.fury.io/js/html5-test-page)
+# HTML5 Test Page - Validated
 
 This is a test page filled with common HTML elements to be used to provide visual feedback whilst building CSS systems and frameworks.
 
-I have not been able to find a dead-simple, standalone test page out there, so I made one. The HTML elements are loosely categorized as either text, embedded content, or form elements.
+This site passes the w3 [html5 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockorager.github.io%2Fhtml5-test-page-validated%2F)
 
 ## Versioning
 
@@ -18,8 +16,6 @@ HTML5 Test Page will be maintained using the [Semantic Versioning](http://semver
 
 ## Credits
 
-Made by [@cbracco](http://cbracco.me). This project is based on the [test file](https://github.com/necolas/normalize.css/blob/master/test.html) included in [@necolas](https://github.com/necolas/)’s [normalize.css](https://github.com/necolas/normalize.css/) project.
-
-## [Contributing](CONTRIBUTING.md)
+This project is based on the [test file](https://github.com/cbracco/html5-test-page) made by [@cbracco](http://cbracco.me). I have only modified it to be valid html5.
 
 ## [License](LICENSE)
